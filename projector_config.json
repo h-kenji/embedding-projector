@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://github.com/h-kenji/embedding-projector/blob/main/question_vectors.txt",
+      "metadataPath": "https://github.com/h-kenji/embedding-projector/blob/main/question_vectors_metadata.txt"
     }
   ]
 }
