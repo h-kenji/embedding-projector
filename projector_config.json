@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/h-kenji/embedding-projector/refs/heads/main/question_vectors.txt",
-      "metadataPath": "https://raw.githubusercontent.com/h-kenji/embedding-projector/refs/heads/main/question_vectors_metadata.txt"
+      "metadataPath": "https://raw.githubusercontent.com/h-kenji/embedding-projector/refs/heads/main/question_vectors_metadata.txt",
       "bookmarksPath": "https://raw.githubusercontent.com/h-kenji/embedding-projector/refs/heads/main/state.txt"
     }
   ]
