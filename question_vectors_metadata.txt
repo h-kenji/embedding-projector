@@ -105,18 +105,5 @@ MV_PROJECT_INFOS_CONTEXT	Information for project High Performance Computing (PA:
 MV_PROJECT_INFOS_CONTEXT	Information for project Cloud Migration (PA: 112) registered for the client Global Retail Solutions from Germany - Package: Standard; Project Manager: anthony.smith@oracle.com; TAM: jorge.luisc@oracle.com; Start Date: 15-FEB-25; End Date: Not defined; Contracted Hours (Estimated LOE): 950; Registered hours until now (executed LOE): 900
 MV_PROJECT_INFOS_CONTEXT	Information for project Cloud Optimization (PA: 113) registered for the client International Banking Group from UK - Package: Standard; Project Manager: anthony.smith@oracle.com; TAM: monica.rferreira@oracle.com; Start Date: 05-JAN-25; End Date: 15-DEC-25; Contracted Hours (Estimated LOE): 1250; Registered hours until now (executed LOE): 1200
 MV_PROJECT_INFOS_CONTEXT	Information for project Fraud Detection (PA: 114) registered for the client Global Insurers from France - Package: Standard; Project Manager: anthony.smith@oracle.com; TAM: kai.johnsons@oracle.com; Start Date: 10-MAR-25; End Date: Not defined; Contracted Hours (Estimated LOE): 800; Registered hours until now (executed LOE): 750
-QUESTIONS	Which engineers have strong background in Python?
-QUESTIONS	How many hours does Daniel Wilson reported on the Cloud Optimization project for International Banking Group?
-QUESTIONS	How many hours were spent in the project Cloud Optimization for client Global IT Solutions
-QUESTIONS	What resources are assigned to the Cloud Optimization project for Global IT Solutions?
-QUESTIONS	In which projects Alice Smith is assigned
-QUESTIONS	How many hours does Alice Smith spent in each activity in the last year
-QUESTIONS	What is the scope of the Cloud Optimization project for Global IT Solutions?
 QUESTIONS	In which projects we had delivered services related to Data Migration?
-QUESTIONS	Which engineers has skills in Data Analysis?
-QUESTIONS	What project does Alice Smith has spent more billable hours?
-QUESTIONS	How many engineers are working for Global Financial Solutions?
-QUESTIONS	List me details about the project Cloud Migration for Global Financial Solutions
-QUESTIONS	Activities registered for project Fraud Detection for Global Insurers
-QUESTIONS	What are the dates for the project of cloud optimization for Global IT Solutions?
-QUESTIONS	What technologies have Laura Martinez worked with?
+
